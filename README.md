@@ -1,6 +1,6 @@
 # A modern and interactive Tic Tac Toe game built with Python and Tkinter, featuring a neon-themed UI, player name input, sound effects, and smooth animations. 
 
-## Features
+ ## Features
 1.Neon-themed modern UI
 2.Player name input screen
 3. Start button to begin the game
@@ -8,9 +8,11 @@
 5. Game start sound
 6. Win sound
 7. Draw sound
-8. Animated winning line
-9.  Restart game option
-10.  Desktop GUI application (no browser needed)
+8. Invalid click sound
+9. Animated winning line
+10.  Restart game option
+11.  Desktop GUI application (no browser needed)
+
 
  ## Technologies Used
 1. Python 3
